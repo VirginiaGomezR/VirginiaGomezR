@@ -1,23 +1,13 @@
-# Buenas!👋 
+# Buenas, soy Vir! 👋 
 
-💻 Desarrolladora front-end <br />
-🌱 En ocasiones hortelana  <br />
-🌍 Ambientóloga <br /> 
-📚 Aprendiendo HTML, SCSS, JAVASCRIPT and REACT <br /> 
- <br /> 
-🔨🔧 Repositorio GitHub - En proceso... <br /> 
+Me preocupa el medio ambiente, me gustan las plantas y me divierto programando!
 
-
-
-
-📫 Contacto: <br /> 
-
- - https://twitter.com/
- - virginiagomezr@gmail.com
- - https://www.linkedin.com/in/
- 
-
-
+Competencias
+    Comunicación
+    Trabajo en equipo
+    Adaptabilidad
+    Perseverante
+    
 ### Languages
 
 <a><img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><a/>
