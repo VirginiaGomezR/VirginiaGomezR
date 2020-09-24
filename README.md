@@ -1,8 +1,8 @@
 # Buenas!👋 
 
-💻 Desarrolladora fornt-end <br />
+💻 Desarrolladora front-end <br />
 🌱 En ocasiones hortelana  <br />
- Ambientóloga <br /> 
+🌍 Ambientóloga <br /> 
 📚 Aprendiendo HTML, SCSS, JAVASCRIPT and REACT <br /> 
  <br /> 
 🔨🔧 Repositorio GitHub - En proceso... <br /> 
