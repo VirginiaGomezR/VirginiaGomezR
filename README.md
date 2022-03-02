@@ -1,6 +1,6 @@
 # Buenas, soy Vir! 🖖
 
-Me preocupa el medio ambiente, me gustan las plantas y me divierto programando!
+Me preocupa el medio ambiente, me gustan las plantas, los mapas y me divierto programando!
 
 ### Competencias 💪  
 <nav>
